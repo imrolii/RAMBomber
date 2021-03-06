@@ -7,4 +7,4 @@ RAM Bomber is a way for you to open multiple windows to test how your computer w
 RAM Bomber is a harmless tool, however you may be required to hard reset your system if the bombing becomes too much. **Make sure you save any work before you try this tool.**
 
 ## Screenshots & Demos
-[Demo Screenshot (v0.1)](/screenshots/scr1.png)
+[Demo Screenshot (v0.1)](/screenshots/rambomber-gui-v0.1.PNG)
