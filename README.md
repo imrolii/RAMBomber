@@ -11,4 +11,5 @@ RAM Bomber is a harmless tool, however you may be required to hard reset your sy
 
 ## Latest version information
 Latest beta: v0.1
+
 Latest stable release: N/A
