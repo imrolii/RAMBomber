@@ -1,0 +1,10 @@
+C:\Users\Oliver\source\repos\RAMBomber\RAMBomber\bin\Debug\RAMBomber.exe.config
+C:\Users\Oliver\source\repos\RAMBomber\RAMBomber\bin\Debug\RAMBomber.exe
+C:\Users\Oliver\source\repos\RAMBomber\RAMBomber\bin\Debug\RAMBomber.pdb
+C:\Users\Oliver\source\repos\RAMBomber\RAMBomber\obj\Debug\RAMBomber.csprojAssemblyReference.cache
+C:\Users\Oliver\source\repos\RAMBomber\RAMBomber\obj\Debug\RAMBomber.Form1.resources
+C:\Users\Oliver\source\repos\RAMBomber\RAMBomber\obj\Debug\RAMBomber.Properties.Resources.resources
+C:\Users\Oliver\source\repos\RAMBomber\RAMBomber\obj\Debug\RAMBomber.csproj.GenerateResource.cache
+C:\Users\Oliver\source\repos\RAMBomber\RAMBomber\obj\Debug\RAMBomber.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\RAMBomber\RAMBomber\obj\Debug\RAMBomber.exe
+C:\Users\Oliver\source\repos\RAMBomber\RAMBomber\obj\Debug\RAMBomber.pdb
