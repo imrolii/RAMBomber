@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAMBomber", "RAMBomber\RAMBomber.csproj", "{31572192-E32C-4DD0-A2AF-7B5769D8C06A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RAMBomber_Setup_Beta", "RAMBomber_Setup_Beta\RAMBomber_Setup_Beta.vdproj", "{10FA58C9-6D74-4F4C-A30F-22334A1CED34}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RAMBomber_Setup_Release", "RAMBomber_Setup_Release\RAMBomber_Setup_Release.vdproj", "{E4843CC7-319A-4271-BFB8-D0D527CD3BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31572192-E32C-4DD0-A2AF-7B5769D8C06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31572192-E32C-4DD0-A2AF-7B5769D8C06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31572192-E32C-4DD0-A2AF-7B5769D8C06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31572192-E32C-4DD0-A2AF-7B5769D8C06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FA58C9-6D74-4F4C-A30F-22334A1CED34}.Debug|Any CPU.ActiveCfg = Debug
+		{10FA58C9-6D74-4F4C-A30F-22334A1CED34}.Release|Any CPU.ActiveCfg = Release
+		{E4843CC7-319A-4271-BFB8-D0D527CD3BC4}.Debug|Any CPU.ActiveCfg = Debug
+		{E4843CC7-319A-4271-BFB8-D0D527CD3BC4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA1B42D-D756-491C-A015-ECEEA8FBDCC9}
+	EndGlobalSection
+EndGlobal
